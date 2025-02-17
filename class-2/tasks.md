@@ -55,4 +55,4 @@ def mirror_decrypt(alphabet: str, ciphertext: str) -> str:
 
 ## Task 5
 
-I encrypted a string with the mirror cipher: `gurfwuukmw myiamobfff bz tffdhddhplusia znhv kshvye`. Decrypt it!
+I encrypted a string with the mirror cipher: `wegqemrndf rtaicytnnx vf ayykrtrtsiyosq rvmq uiiuye`. Decrypt it!
