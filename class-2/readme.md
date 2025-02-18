@@ -1,4 +1,4 @@
-# Practice tasks for Class 2
+# (2) Practice Class 
 
 ## Task 1
 
