@@ -43,7 +43,7 @@ assert all( [ (any([ random_password()[i] not in string.digits for _ in range(10
 
 ## Task 3
 
-I generated a list of random numbers at 2024.02.24 22:00:01. I can tell you that the first 4 numbers are: 3746, 8581, 8835, 9312. What are the 5th, 6th, 7th and 8th numbers?
+I generated a list of random numbers at 2025.02.24 22:00:01. I can tell you that the first 4 numbers are: 3746, 8581, 8835, 9312. What are the 5th, 6th, 7th and 8th numbers?
 
 This is the program I used:
 
