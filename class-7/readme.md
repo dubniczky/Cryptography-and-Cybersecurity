@@ -43,15 +43,7 @@ def gen_randomstr(a: int, b: int) -> str:
 gen_randomstr(?, ?)
 ```
 
-What two parameters did I use, if the result was: `fxbyscbqxmgz`.
-
-Test
-
-```python
-a = 12
-b = 18664
-assert gen_randomstr(a, b) == 'fxbyscbqxmgz'
-```
+What two parameters did I use, if the result was: `wkwusizbyqsz`.
 
 
 ## Task 3
